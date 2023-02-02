@@ -9,6 +9,10 @@ public class Ambiente
         this.capacidadEstudiantes = capacidadEstudiantes;
     }
 
+    public String getNombreAmbiente() {
+        return nombreAmbiente;
+    }
+
     public int getCapacidadEstudiantes() {
         return capacidadEstudiantes;
     }

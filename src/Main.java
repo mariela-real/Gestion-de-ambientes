@@ -31,7 +31,7 @@ public class Main {
         listapisos.add(piso0);
         listapisos.add(piso1);
 
-        Edificio antiguo = new Edificio("antiguo", 2);
+        Edificio antiguo = new Edificio("antiguo",2);
         antiguo.setPisos(listapisos);
 
         listaEdificios.add(antiguo);
